@@ -4,7 +4,7 @@ include("header.php");
 
 <div class="row">
 			<div class="col-md-6">
-				<h3 class="text">Welcome to YOLO</h3>
+				<h3 class="text">Welcome to MY YOLO</h3>
 				<p class="text-justify">Every day thousands of animals are being adopted,but there are still
 				millions that need a home.<strong>YOLO Pet</strong> is a new adoption agency that
 				caters all sorts of animals that need to be adopted </p>
@@ -76,4 +76,3 @@ include("header.php");
 <?php
 include("footer.php");
 ?>		
-	
